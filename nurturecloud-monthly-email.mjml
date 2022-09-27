@@ -1,0 +1,95 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i" />
+  </mj-head>
+  <mj-body>
+    <mj-raw>
+      <!-- Headline section -->
+    </mj-raw>
+    <mj-section background-url="https://rw-media.s3.amazonaws.com/raywhitecom/wp-content/uploads/2022/09/23101753/RW_NurtureCloud_Slides_2-1.png" background-size="cover" background-repeat="no-repeat">
+      <mj-column width="600px" padding-top="50px" padding-right="170px">
+        <mj-text align="left" color="#fff" font-size="43px" font-family="Lato" letter-spacing="3px" font-weight="300">
+          &lt;HEADLINE
+        </mj-text>
+        <mj-text align="left" color="#fff" font-size="43px" font-family="Lato" letter-spacing="3px">
+          HEADLINE&gt;
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Section Title -->
+    </mj-raw>
+    <mj-section background-color="#f5f5f5">
+      <mj-column width="400px">
+        <mj-text font-size="30px" font-family="Lato" color="#595959" align="center" letter-spacing="1px">&lt;SECTION TITLE&gt;</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Stat# 1 -->
+    </mj-raw>
+    <mj-section background-color="#fff" background-url="https://rw-media.s3.amazonaws.com/raywhitecom/wp-content/uploads/2022/09/27093714/Group-3-1-1.png" background-size="cover" background-repeat="no-repeat">
+      <mj-column width="250px" padding-top="250px" vertical-align="middle"></mj-column>
+      <mj-column width="350px" padding-top="70px" vertical-align="middle">
+        <mj-text align="center" color="#595959" font-size="40px" font-family="Lato" letter-spacing="3px">
+          &lt;STAT #1&gt;
+        </mj-text>
+        <mj-text align="center" color="#595959" font-size="20px" font-family="Lato" font-weight="300">
+          &lt;NUMBER OF CALLS MADE IN PREVIOUS MONTH&gt;
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Stat# 2 -->
+    </mj-raw>
+    <mj-section background-color="#292B33" background-url="https://rw-media.s3.amazonaws.com/raywhitecom/wp-content/uploads/2022/09/27093722/Group-6-1.png" background-size="cover" background-repeat="no-repeat">
+      <mj-column width="350px" padding-top="70px" vertical-align="middle">
+        <mj-text align="center" color="#fff" font-size="40px" font-family="Lato" letter-spacing="3px">
+          &lt;STAT #2&gt;
+        </mj-text>
+        <mj-text align="center" color="#fff" font-size="20px" font-family="Lato" letter-spacing="3px" font-weight="300">
+          &lt;NUMBER OF OFFICES / AGENTS ONBOARDED&gt;
+        </mj-text>
+      </mj-column>
+      <mj-column width="250px" padding-top="250px" vertical-align="middle"></mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Stat# 3 -->
+    </mj-raw>
+    <mj-section background-color="#fff" background-url="https://rw-media.s3.amazonaws.com/raywhitecom/wp-content/uploads/2022/09/27093717/Group-7-1.png" background-size="cover" background-repeat="no-repeat">
+      <mj-column width="250px" padding-top="250px" vertical-align="middle"></mj-column>
+      <mj-column width="350px" padding-top="70px" vertical-align="middle">
+        <mj-text align="center" color="#595959" font-size="40px" font-family="Lato" letter-spacing="3px">
+          &lt;STAT #3&gt;
+        </mj-text>
+        <mj-text align="center" color="#595959" font-size="20px" font-family="Lato" letter-spacing="3px" font-weight="300">
+          &lt;CALLS TO LISTING FUNNEL OVERVIEW&gt;
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Section #2 Title -->
+    </mj-raw>
+    <mj-section background-color="#f5f5f5">
+      <mj-column width="400px">
+        <mj-text font-size="30px" font-family="Lato" color="#595959" align="center" letter-spacing="1px">&lt;SECTION TITLE&gt;</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Text Section -->
+    </mj-raw>
+    <mj-section background-color="#fff">
+      <mj-column width="600px">
+        <mj-text line-height="1.3" font-size="18px" font-family="Lato" font-weight="300" color="#595959" align="center">
+          &lt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras facilisis auctor metus,
+          a lacinia tellus dapibus vel. Quisque egestas vestibulum odio at vehicula. Proin volutpat,
+          sapien et commodo luctus, est sapien tempus metus, nec faucibus tortor est vel ante. Etiam
+          nec commodo augue, id laoreet nunc. Pellentesque molestie massa velit, at feugiat tellus
+          scelerisque eu. Morbi risus nulla, mattis quis magna quis, semper accumsan neque. Aenean
+          imperdiet viverra lorem, ac bibendum erat viverra nec. Donec consectetur felis eu tellus
+          mattis, eu pellentesque massa viverra. Vestibulum ante ipsum primis in faucibus orci luctus
+          et ultrices posuere cubilia curae; Curabitur sit amet leo orci.&gt;
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
