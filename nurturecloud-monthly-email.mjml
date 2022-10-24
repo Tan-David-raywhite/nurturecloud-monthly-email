@@ -21,8 +21,8 @@
           &lt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras facilisis auctor metus,
           a lacinia tellus dapibus vel. Quisque egestas vestibulum odio at vehicula.&gt;
         </mj-text>
-        <mj-button align="left" font-family="Lato" background-color="#292B33" color="#fff">
-          Call to action
+        <mj-button href="https://raywhite.com" align="left" font-family="Lato" background-color="#292B33" color="#fff">
+          &lt;Call to Action&gt;
         </mj-button>
       </mj-column>
       </mj-hero>
@@ -32,7 +32,7 @@
     </mj-raw>
     <mj-section background-color="#fff" padding-top="50px">
       <mj-column width="600px">
-        <mj-spacer height="130px" />
+        <mj-spacer height="10px" />
       </mj-column>
       <mj-column width="600px">
         <mj-text font-size="30px" font-family="Lato" color="#595959" align="center" letter-spacing="1px">&lt;SECTION TITLE&gt;</mj-text>
@@ -68,9 +68,9 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#fff" background-url="https://rw-media.s3.amazonaws.com/raywhitecom/wp-content/uploads/2022/10/13103218/Group-2-6.png" background-size="cover" background-repeat="no-repeat">
+    <mj-section background-color="#fff" background-url="https://rw-media.s3.amazonaws.com/raywhitecom/wp-content/uploads/2022/10/25093911/Group-2-6-1.png" background-size="cover" background-repeat="no-repeat">
       <mj-column width="600px">
-        <mj-spacer height="180px" />
+        <mj-spacer height="120px" />
       </mj-column>
       <mj-column width="600px">
         <mj-text font-size="30px" font-family="Lato" color="#fff" align="center" letter-spacing="1px">&lt;SECTION TITLE&gt;</mj-text>
